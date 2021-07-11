@@ -1,0 +1,4 @@
+*.log
+tresc.txt
+composer.lock
+vendor/

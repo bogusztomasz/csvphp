@@ -1,0 +1,10 @@
+{
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-0": {
+            "Csv": "src"
+        }
+    }
+}
